@@ -31,7 +31,6 @@ A user-friendly, interactive Bash script to **install, manage, and monitor Pi-ho
 
 ```bash
 # Download and make executable
-curl -O https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/pihole-manager.sh
 chmod +x pihole-manager.sh
 
 # Run the installer
